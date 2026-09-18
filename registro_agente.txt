@@ -1,0 +1,50 @@
+[2026-09-17 18:02:02] Temp: 27.1°C | Humedad: 84.4% | Acción: Mantener sistema apagado
+[2026-09-17 18:02:05] Temp: 26.2°C | Humedad: 67.4% | Acción: Mantener sistema apagado
+[2026-09-17 18:02:08] Temp: 24.1°C | Humedad: 45.2% | Acción: Mantener sistema apagado
+[2026-09-17 18:02:11] Temp: 28.8°C | Humedad: 59.6% | Acción: Mantener sistema apagado
+[2026-09-17 18:02:14] Temp: 29.1°C | Humedad: 87.5% | Acción: Mantener sistema apagado
+[2026-09-17 18:02:17] Temp: 27.1°C | Humedad: 74.1% | Acción: Mantener sistema apagado
+[2026-09-17 18:02:20] Temp: 16.9°C | Humedad: 61.3% | Acción: Encender calefacción
+[2026-09-17 18:02:23] Temp: 30.4°C | Humedad: 89.0% | Acción: Encender aire acondicionado (Modo Deshumidificador)
+[2026-09-17 18:02:26] Temp: 28.1°C | Humedad: 74.4% | Acción: Mantener sistema apagado
+[2026-09-17 18:02:29] Temp: 22.8°C | Humedad: 57.7% | Acción: Mantener sistema apagado
+[2026-09-17 18:02:33] Temp: 25.8°C | Humedad: 45.2% | Acción: Mantener sistema apagado
+[2026-09-17 18:02:36] Temp: 29.8°C | Humedad: 59.5% | Acción: Mantener sistema apagado
+[2026-09-17 18:02:39] Temp: 31.1°C | Humedad: 85.3% | Acción: Encender aire acondicionado (Modo Deshumidificador)
+[2026-09-17 18:02:42] Temp: 33.8°C | Humedad: 70.9% | Acción: Encender aire acondicionado (Modo Deshumidificador)
+[2026-09-17 18:02:45] Temp: 29.1°C | Humedad: 68.8% | Acción: Mantener sistema apagado
+[2026-09-17 18:02:48] Temp: 26.6°C | Humedad: 68.7% | Acción: Mantener sistema apagado
+[2026-09-17 18:02:51] Temp: 17.8°C | Humedad: 52.3% | Acción: Encender calefacción
+[2026-09-17 18:02:54] Temp: 20.6°C | Humedad: 72.7% | Acción: Mantener sistema apagado
+[2026-09-17 18:02:57] Temp: 32.3°C | Humedad: 66.2% | Acción: Encender ventilador
+[2026-09-17 18:03:00] Temp: 16.9°C | Humedad: 87.7% | Acción: Encender calefacción
+[2026-09-17 18:03:03] Temp: 21.6°C | Humedad: 75.3% | Acción: Mantener sistema apagado
+[2026-09-17 18:03:06] Temp: 26.3°C | Humedad: 66.2% | Acción: Mantener sistema apagado
+[2026-09-17 18:03:09] Temp: 23.7°C | Humedad: 79.6% | Acción: Mantener sistema apagado
+[2026-09-17 18:03:12] Temp: 25.8°C | Humedad: 80.5% | Acción: Mantener sistema apagado
+[2026-09-17 18:03:15] Temp: 21.9°C | Humedad: 65.1% | Acción: Mantener sistema apagado
+[2026-09-17 18:03:18] Temp: 18.6°C | Humedad: 68.1% | Acción: Mantener sistema apagado
+[2026-09-17 18:03:21] Temp: 25.6°C | Humedad: 48.5% | Acción: Mantener sistema apagado
+[2026-09-17 18:03:24] Temp: 18.8°C | Humedad: 85.0% | Acción: Mantener sistema apagado
+[2026-09-17 18:03:27] Temp: 16.1°C | Humedad: 50.8% | Acción: Encender calefacción
+[2026-09-17 18:03:30] Temp: 26.0°C | Humedad: 74.0% | Acción: Mantener sistema apagado
+[2026-09-17 18:03:33] Temp: 27.5°C | Humedad: 86.9% | Acción: Mantener sistema apagado
+[2026-09-17 18:03:36] Temp: 21.8°C | Humedad: 83.7% | Acción: Mantener sistema apagado
+[2026-09-17 18:03:39] Temp: 24.6°C | Humedad: 73.4% | Acción: Mantener sistema apagado
+[2026-09-17 18:03:42] Temp: 23.8°C | Humedad: 62.0% | Acción: Mantener sistema apagado
+[2026-09-17 18:03:45] Temp: 19.4°C | Humedad: 74.6% | Acción: Mantener sistema apagado
+[2026-09-17 18:03:48] Temp: 19.7°C | Humedad: 67.6% | Acción: Mantener sistema apagado
+[2026-09-17 18:03:51] Temp: 15.5°C | Humedad: 76.7% | Acción: Encender calefacción
+[2026-09-17 18:03:54] Temp: 32.4°C | Humedad: 85.4% | Acción: Encender aire acondicionado (Modo Deshumidificador)
+[2026-09-17 18:03:57] Temp: 27.4°C | Humedad: 60.3% | Acción: Mantener sistema apagado
+[2026-09-17 18:04:00] Temp: 20.5°C | Humedad: 76.5% | Acción: Mantener sistema apagado
+[2026-09-17 18:04:03] Temp: 29.0°C | Humedad: 52.2% | Acción: Mantener sistema apagado
+[2026-09-17 18:04:06] Temp: 22.3°C | Humedad: 40.2% | Acción: Mantener sistema apagado
+[2026-09-17 18:04:09] Temp: 20.4°C | Humedad: 58.2% | Acción: Mantener sistema apagado
+[2026-09-17 18:04:12] Temp: 29.7°C | Humedad: 52.4% | Acción: Mantener sistema apagado
+[2026-09-17 18:04:15] Temp: 19.0°C | Humedad: 85.8% | Acción: Mantener sistema apagado
+[2026-09-17 18:04:18] Temp: 15.6°C | Humedad: 57.7% | Acción: Encender calefacción
+[2026-09-17 18:04:21] Temp: 22.7°C | Humedad: 51.6% | Acción: Mantener sistema apagado
+[2026-09-17 18:04:24] Temp: 20.2°C | Humedad: 48.6% | Acción: Mantener sistema apagado
+[2026-09-17 18:04:27] Temp: 17.1°C | Humedad: 70.2% | Acción: Encender calefacción
+[2026-09-17 18:04:30] Temp: 17.6°C | Humedad: 53.9% | Acción: Encender calefacción
