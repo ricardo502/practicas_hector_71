@@ -28,3 +28,45 @@
 2026-09-18 16:57:45 | 28.8 °C | Humedad: 87.0% | Dejar equipos apagados
 2026-09-18 17:09:05 | 31.2 °C | Humedad: 51.4% | Prender ventilador
 2026-09-18 17:09:17 | 22.5 °C | Humedad: 51.7% | Dejar equipos apagados
+2026-09-18 17:51:30 | 24.8 °C | Humedad: 52.1% | Dejar equipos apagados
+2026-09-18 17:51:34 | 20.2 °C | Humedad: 52.9% | Dejar equipos apagados
+2026-09-18 17:51:37 | 32.9 °C | Humedad: 82.2% | Prender aire acondicionado para deshumidificar
+2026-09-18 17:51:41 | 20.6 °C | Humedad: 74.7% | Dejar equipos apagados
+2026-09-18 17:51:44 | 21.6 °C | Humedad: 51.2% | Dejar equipos apagados
+2026-09-18 17:51:48 | 34.3 °C | Humedad: 52.3% | Prender ventilador
+2026-09-18 17:51:53 | 23.8 °C | Humedad: 81.9% | Dejar equipos apagados
+2026-09-18 17:51:57 | 17.2 °C | Humedad: 79.2% | Prender calefacción
+2026-09-18 17:52:01 | 15.1 °C | Humedad: 78.7% | Prender calefacción
+2026-09-18 17:52:06 | 21.5 °C | Humedad: 43.7% | Dejar equipos apagados
+2026-09-18 17:52:09 | 34.8 °C | Humedad: 86.5% | Prender aire acondicionado para deshumidificar
+2026-09-18 17:52:13 | 20.8 °C | Humedad: 49.2% | Dejar equipos apagados
+2026-09-18 17:52:17 | 33.2 °C | Humedad: 57.4% | Prender ventilador
+2026-09-18 17:52:20 | 18.2 °C | Humedad: 83.7% | Dejar equipos apagados
+2026-09-18 17:52:23 | 28.8 °C | Humedad: 52.2% | Dejar equipos apagados
+2026-09-18 17:52:27 | 25.0 °C | Humedad: 63.3% | Dejar equipos apagados
+2026-09-18 17:52:30 | 21.0 °C | Humedad: 57.6% | Dejar equipos apagados
+2026-09-18 17:52:34 | 30.4 °C | Humedad: 47.7% | Prender ventilador
+2026-09-18 17:52:37 | 16.2 °C | Humedad: 49.9% | Prender calefacción
+2026-09-18 17:52:40 | 23.5 °C | Humedad: 79.7% | Dejar equipos apagados
+2026-09-18 17:52:44 | 22.5 °C | Humedad: 85.6% | Dejar equipos apagados
+2026-09-18 17:52:47 | 22.4 °C | Humedad: 49.0% | Dejar equipos apagados
+2026-09-18 17:52:50 | 26.2 °C | Humedad: 43.0% | Dejar equipos apagados
+2026-09-18 17:52:54 | 32.1 °C | Humedad: 75.3% | Prender aire acondicionado para deshumidificar
+2026-09-18 17:52:57 | 32.1 °C | Humedad: 88.0% | Prender aire acondicionado para deshumidificar
+2026-09-18 17:53:00 | 24.9 °C | Humedad: 89.0% | Dejar equipos apagados
+2026-09-18 17:53:04 | 34.3 °C | Humedad: 73.4% | Prender aire acondicionado para deshumidificar
+2026-09-18 17:53:07 | 21.5 °C | Humedad: 56.1% | Dejar equipos apagados
+2026-09-18 17:53:11 | 16.4 °C | Humedad: 74.4% | Prender calefacción
+2026-09-18 17:53:14 | 26.3 °C | Humedad: 42.3% | Dejar equipos apagados
+2026-09-18 17:53:17 | 33.7 °C | Humedad: 56.1% | Prender ventilador
+2026-09-18 17:53:21 | 27.0 °C | Humedad: 76.9% | Dejar equipos apagados
+2026-09-18 17:53:24 | 34.1 °C | Humedad: 82.9% | Prender aire acondicionado para deshumidificar
+2026-09-18 17:53:28 | 23.3 °C | Humedad: 58.9% | Dejar equipos apagados
+2026-09-18 17:53:31 | 34.0 °C | Humedad: 49.0% | Prender ventilador
+2026-09-18 17:53:36 | 16.8 °C | Humedad: 61.6% | Prender calefacción
+2026-09-18 17:56:15 | 26.9 °C | Humedad: 40.8% | Dejar equipos apagados
+2026-09-18 17:56:19 | 24.7 °C | Humedad: 47.6% | Dejar equipos apagados
+2026-09-18 17:56:23 | 20.5 °C | Humedad: 73.6% | Dejar equipos apagados
+2026-09-18 17:56:26 | 18.0 °C | Humedad: 69.0% | Dejar equipos apagados
+2026-09-18 17:56:30 | 24.5 °C | Humedad: 81.2% | Dejar equipos apagados
+2026-09-18 17:56:34 | 26.7 °C | Humedad: 83.2% | Dejar equipos apagados
