@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laboratorio DWI</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Laboratorio DWI</h1>
+        <nav>
+            <a href="#inicio">Inicio</a>
+            <a href="#calculadora">Calculadora de edad</a>
+            <a href="#tareas">Tareas</a>
+            <a href="#conversor">Conversor</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="inicio">
+            <h2>Bienvenido</h2>
+            <p>Selecciona una herramienta del menú para comenzar.</p>
+            
+        </section>
+
+        <section id="calculadora" hidden>
+            <h2>Calculadora de edad</h2>
+            <form id="form-calculadora">
+                <label for="fecha-nacimiento">Fecha de nacimiento</label>
+                <input id="fecha-nacimiento" type="date" required>
+                <button type="submit">Calcular edad</button>
+            </form>
+            <p id="resultado-calculadora" aria-live="polite"></p>
+        </section>
+
+        <section id="tareas" hidden>
+            <h2>Lista de tareas</h2>
+            <form id="form-tareas">
+                <label for="nueva-tarea">Nueva tarea</label>
+                <input id="nueva-tarea" type="text" maxlength="150" required>
+                <button type="submit">Agregar</button>
+            </form>
+            <p>Marca las tareas terminadas. La lista se borra al recargar.</p>
+            <ul id="lista-tareas"></ul>
+        </section>
+
+        <section id="conversor" hidden>
+            <h2>Conversor de temperatura</h2>
+            <form id="form-conversor">
+                <label for="temperatura">Temperatura</label>
+                <input id="temperatura" type="number" step="any" required>
+
+                <label for="unidad-origen">De</label>
+                <select id="unidad-origen">
+                    <option value="C">Celsius</option>
+                    <option value="F">Fahrenheit</option>
+                    <option value="K">Kelvin</option>
+                </select>
+
+                <label for="unidad-destino">A</label>
+                <select id="unidad-destino">
+                    <option value="F">Fahrenheit</option>
+                    <option value="C">Celsius</option>
+                    <option value="K">Kelvin</option>
+                </select>
+                <button type="submit">Convertir</button>
+            </form>
+            <p id="resultado-conversor" aria-live="polite"></p>
+        </section>
+    </main>
+
+    <footer>Práctica de laboratorio DWI</footer>
+</body>
+</html>

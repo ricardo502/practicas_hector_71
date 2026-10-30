@@ -1,0 +1,102 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    color: #333;
+}
+
+header {
+    padding: 20px;
+    text-align: center;
+    background: #245b78;
+    color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+nav a {
+    color: white;
+}
+
+main {
+    width: 90%;
+    max-width: 600px;
+    margin: 25px auto;
+}
+
+section {
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    font: inherit;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px 15px;
+    border: 0;
+    border-radius: 4px;
+    background: #245b78;
+    color: white;
+    cursor: pointer;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+li label {
+    flex: 1;
+    margin: 0;
+    overflow-wrap: anywhere;
+}
+
+li input {
+    width: auto;
+    margin: 0;
+}
+
+li button {
+    margin: 0;
+}
+
+.completada {
+    text-decoration: line-through;
+    color: #777;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+}
